@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901269236537",
+    "project_id": "srocksmusictask",
+    "storage_bucket": "srocksmusictask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901269236537:android:4f1a1405c72f09bb4d16e8",
+        "android_client_info": {
+          "package_name": "com.example.music_services_module"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS6742Qcjg8ZvwWqewwAFTSTU_qEeTldw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
